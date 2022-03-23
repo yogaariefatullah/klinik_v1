@@ -1,0 +1,10 @@
+login
+username : admin
+password :adminadmin
+
+username : dokter
+password : dokterdokter
+
+username : admin
+password : staffstaff
+
